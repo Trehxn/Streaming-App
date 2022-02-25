@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "hi",
+      "description": "1",
+      "id": 1
+    },
+    {
+      "title": "second",
+      "description": "better",
+      "id": 2
+    },
+    {
+      "title": "refactor",
+      "description": "c",
+      "id": 5
+    },
+    {
+      "title": "play",
+      "description": "4",
+      "userId": "100665064867824199974",
+      "id": 6
+    }
+  ]
+}
